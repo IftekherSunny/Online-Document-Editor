@@ -6758,6 +6758,7 @@ label {
 
 html, body {
     height: 100%;
+	background-color: #a8a8a8;
 }
 
 #textarea {
